@@ -14,5 +14,6 @@ echo "Hello";
 </head>
 <body>
     <h5>SAMPLE HTML/PHP PAGE</h5>
+    <input type="text" class="button" value="SUBMIT">
 </body>
 </html>
